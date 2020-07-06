@@ -19,11 +19,11 @@
   }
 }
 
-.Open {
+.OpenDrop {
   transform: trasnlateX(0);
 }
 
-.Close {
+.CloseDrop {
   transform: trasnlateX(-100%);
 }
 
